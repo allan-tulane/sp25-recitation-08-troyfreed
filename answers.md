@@ -1,18 +1,8 @@
-# CMPS 2200 Recitation 08
+**Name:**Michael Baron Name:Troy Freed________________
 
-## Answers
+Place all written answers from recitation-08.md here for easier grading.
 
-**Name:**_________________________
-**Name:**_________________________
+1b) work = o((V+E) log V) Span = O(v)
 
-
-Place all written answers from `recitation-08.md` here for easier grading.
-
-
-
-- **1b)**
-
-
-
-- **2b)**
+2b)
 
